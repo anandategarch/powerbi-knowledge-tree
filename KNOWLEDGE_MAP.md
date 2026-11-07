@@ -126,6 +126,7 @@
 | [model-and-dax.md](./11-user-report-analysis/model-and-dax.md) | Tabel, relasi, SEMUA 161 measures dengan DAX lengkap, Power Query inti |
 | [qa-001-tambah-tanggal-rekap-brg-masuk.md](./11-user-report-analysis/qa-001-tambah-tanggal-rekap-brg-masuk.md) | ⭐ Solusi lengkap tambah tanggal di halaman Rekap Brg Masuk: slicer tanggal + sync, tampil kolom TANGGAL, tanggal update; warning relasi `Rekap Mentah BM` ↔ `Date` belum ada |
 | [qa-002-visual-nama-barang-selisih-tanggal.md](./11-user-report-analysis/qa-002-visual-nama-barang-selisih-tanggal.md) | ⭐ Bikin visual Table/Matrix Nama Barang × Selisih BM × Tanggal; Cara 1 pakai `Rekap Mentah BM[TANGGAL]` (cepat, sisi sistem tidak terfilter tanggal), Cara 2 pakai TREATAS/relasi fisik untuk akurasi per tanggal |
+| [VERIFICATION.md](./11-user-report-analysis/VERIFICATION.md) | ✅ Audit 7 Nov 2026: knowledge tree diverifikasi 100% identik dengan pbix asli (36 halaman, 539 visual, 161 measures, 17 relasi) — snapshot per 19 Okt 2026 |
 
 ## 12-troubleshooting — 🩺 Perbaikan Masalah
 
