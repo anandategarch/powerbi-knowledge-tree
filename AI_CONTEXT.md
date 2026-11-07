@@ -72,6 +72,7 @@
 | Error message, troubleshooting | `12-troubleshooting/common-errors.md` |
 | Pertanyaan umum seputar Power BI | `12-troubleshooting/faq.md` |
 | Tambah tanggal/slicer/filter tanggal di halaman report user (mis. Rekap Brg Masuk, barang masuk, BM) | `11-user-report-analysis/qa-001-tambah-tanggal-rekap-brg-masuk.md` |
+| Bikin visual Table/Matrix Nama Barang × Selisih × Tanggal (BM, deviasi per barang per tanggal) | `11-user-report-analysis/qa-002-visual-nama-barang-selisih-tanggal.md` |
 | Istilah/kosakata Power BI | `00-quick-reference/glossary.md` |
 | Cheat sheet cepat DAX / M | `00-quick-reference/dax-cheatsheet.md`, `00-quick-reference/m-cheatsheet.md` |
 
