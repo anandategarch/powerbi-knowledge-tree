@@ -71,6 +71,7 @@
 | DAX query view | `10-advanced/05-dax-query-view.md` |
 | Error message, troubleshooting | `12-troubleshooting/common-errors.md` |
 | Pertanyaan umum seputar Power BI | `12-troubleshooting/faq.md` |
+| Tambah tanggal/slicer/filter tanggal di halaman report user (mis. Rekap Brg Masuk, barang masuk, BM) | `11-user-report-analysis/qa-001-tambah-tanggal-rekap-brg-masuk.md` |
 | Istilah/kosakata Power BI | `00-quick-reference/glossary.md` |
 | Cheat sheet cepat DAX / M | `00-quick-reference/dax-cheatsheet.md`, `00-quick-reference/m-cheatsheet.md` |
 

@@ -124,6 +124,7 @@
 | [REPORT_OVERVIEW.md](./11-user-report-analysis/REPORT_OVERVIEW.md) | ⭐ Ringkasan eksekutif: 36 halaman, 539 visual, 161 measures, model, sumber data, teknik unggulan, rekomendasi |
 | [pages-and-visuals.md](./11-user-report-analysis/pages-and-visuals.md) | Detail 36 halaman + komposisi visual + fields yang dipakai |
 | [model-and-dax.md](./11-user-report-analysis/model-and-dax.md) | Tabel, relasi, SEMUA 161 measures dengan DAX lengkap, Power Query inti |
+| [qa-001-tambah-tanggal-rekap-brg-masuk.md](./11-user-report-analysis/qa-001-tambah-tanggal-rekap-brg-masuk.md) | ⭐ Solusi lengkap tambah tanggal di halaman Rekap Brg Masuk: slicer tanggal + sync, tampil kolom TANGGAL, tanggal update; warning relasi `Rekap Mentah BM` ↔ `Date` belum ada |
 
 ## 12-troubleshooting — 🩺 Perbaikan Masalah
 
