@@ -76,6 +76,7 @@
 | Status akurasi repo vs pbix asli (audit verifikasi) | `11-user-report-analysis/VERIFICATION.md` |
 | Komponen apa saja di halaman tertentu (visual, slicer, measure, filter, Top N per halaman 1–36) | `11-user-report-analysis/pages-detail.md` |
 | Dampak hapus/ubah measure (dipakai di halaman mana, direferensikan measure apa, fungsi bisnisnya apa) | `11-user-report-analysis/measure-usage.md` |
+| Arti/fungsi bisnis suatu measure — glosarium lengkap 161 measure, 16 keluarga (deviasi, BOM, sales, waste, BM, weekly, A/B, dll.) | `11-user-report-analysis/measure-glossary.md` |
 | Istilah/kosakata Power BI | `00-quick-reference/glossary.md` |
 | Cheat sheet cepat DAX / M | `00-quick-reference/dax-cheatsheet.md`, `00-quick-reference/m-cheatsheet.md` |
 

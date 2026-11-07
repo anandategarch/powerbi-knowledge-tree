@@ -326,6 +326,8 @@ Perlu dicek kolom "Direferensikan oleh" di tabel atas — kalau juga tidak diref
 
 ## Glosarium Fungsi Measure Kunci
 
+> Bagian ini hanya ringkasan measure kunci. **Glosarium lengkap SEMUA 161 measure** (fungsi bisnis + DAX inti + pemakaian + dependensi, 16 keluarga): [measure-glossary.md](./measure-glossary.md).
+
 | Measure | Fungsi bisnis |
 |---|---|
 | `Deviasi CM / Deviasi LM` | Deviasi (selisih stok teoritis vs aktual) bulan berjalan / bulan lalu. LM otomatis PREVIOUSMONTH, tapi bisa dioverride via Mode DINAMIS (Date B). |
